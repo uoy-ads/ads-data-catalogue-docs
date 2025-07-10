@@ -1,16 +1,15 @@
 
-site_name: ADS Data Catalogue Documentation
+site_name: ADS Data Catalogue User Guide
 site_url: https://uoy-ads.github.io/ads-data-catalogue-docs/
 site_author: Archaeology Data Service
-site_description:
-repo_name: ARIADNE-Infrastructure/docs
+repo_name: ads-data-catalogue-docs
 repo_url: https://github.com/uoy-ads/ads-data-catalogue-docs/
 theme:
   name: material
   font:
     text: Roboto
     code: Roboto Mono
-  logo: assets/ads_logo_white.png
+  logo: assets/ads_logo_white_cropped.png
   favicon: assets/ads_logo.png
   features:
     - navigation.sections    # Groups top-level sections in sidebar
@@ -22,7 +21,7 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Dark mode
-      primary: green
+      primary: red
       accent: white
 
     # Light Mode
@@ -30,8 +29,8 @@ theme:
       toggle:
         icon: material/weather-night
         name: Light mode
-      primary: green
-      accent: red
+      primary: red
+      accent: green
 
 markdown_extensions:
   - attr_list
@@ -43,6 +42,9 @@ markdown_extensions:
   - pymdownx.superfences
   - md_in_html
   - pymdownx.blocks.caption
+
+plugins:
+  - social:
 
 extra:
   social:
@@ -59,12 +61,11 @@ copyright: Copyright &copy; 2025 - Archaeology Data Service
 
 nav:
   - Home: index.md
-  - User Guide:
-    - Introduction: Portal_User_Guide/Section-1_What.md
-    - The Map tool (Where): Portal_User_Guide/Section-2_Map_Where.md
-    - Time period tool (When): Portal_User_Guide/Section-3_Time_period_When.md
-    - Search filters: Portal_User_Guide/Section-4_Search_Filters.md
-    - Resource information: Portal_User_Guide/Section-5_Resources.md
-    - Tips and guidance: Portal_User_Guide/Section-6_Tips_and_guidance.md
-    - RDA metadata: Portal_User_Guide/RDA_metadata.md
-    - Version: Portal_User_Guide/Version.md
+  - Searching the Catalogue: Section-0_Searching_Catalogue.md
+  - What - The Text tool: Section-1_What.md
+  - Where - The Map tool: Section-2_Map_Where.md
+  - When - The Time period tool: Section-3_Time_period_When.md
+  - Search Filters: Section-4_Search_Filters.md
+  - The Resource Page: Section-5_Resources.md
+  - Tips and Guidance: Section-6_Tips_and_guidance.md
+  - RDA metadata: RDA_metadata.md

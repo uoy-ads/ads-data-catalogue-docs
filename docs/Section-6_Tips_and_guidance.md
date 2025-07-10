@@ -1,11 +1,11 @@
 ---
-description: Section 6 of the ARIADNE Portal Guide on how to use the Catalogue - guidance and two case studies. 
+title: Tips and Guidance
+description: A series of tips for using the data catalogue, along with two case studies. 
 ---
-![ARIADNE Portal Header iamge](../assets/ARIADNE_Portal_Guide_banner.png){ width="850" }
 
 # Tips and guidance for searching the Catalogue
 ## How the metadata has been mapped
-The metadata in the Catalogue has originated from many different sources with varying levels of information and data models. In the first instance, these have been mapped to the AO-CAT which caters for most archaeological domains. However, there are some specialist domains which require additional concepts and terminology to be successfully mapped (otherwise a lot of relevant information would be lost) and two approaches have been used to address this issue.
+The metadata in the data catalogue has originated from many different sources with varying levels of information and data models. In the first instance, these have been mapped to the AO-CAT which caters for most archaeological domains. However, there are some specialist domains which require additional concepts and terminology to be successfully mapped (otherwise a lot of relevant information would be lost) and two approaches have been used to address this issue.
 ### Application profiles
 The first solution used is the the Application Profile which is an extension of the (CIDOC CRM based) AO-CAT data model. These enable additional data fields to be added and mapped for the Catalogue. Examples of specialist Application Profiles developed during the ARIADNEplus project are for the domains of “heritage science” (which covers scientific datasets such as aDNA and radio carbon dating), “inscriptions, marks and graffiti” and “burials and mortuary data”.  
 ### Additional ontologies
@@ -30,7 +30,9 @@ Two approaches have been used to denote time periods – absolute start and end 
 ## Some examples of using the Catalogue to answer research questions
 
 ### Video: doing a search
+
 [Video demonstration of a search](https://vimeo.com/1049348294). This 4 minute video</a> shows how to find all the records relating to submarines sunk around the British Isles during the Second World War using a selection of the available tools and filters.
+
 ### How to find all resources relating to a specific site or monument
 
 This example illustrates the usefulness of the map and georeferencing resources, showing how:
@@ -65,27 +67,3 @@ Included in the 22 results for “Whitley Castle” is the resource "Altar, Knar
 
 ### Navigating hierarchical datasets (THANADOS)
 
-THANADOS is a web portal (https://thanados.net), hosted at the Natural History Museum Vienna, for archaeologically and anthropologically investigated burials from Austria and the Czech Republic during the Early Middle Ages. It is possible to explore the THANADOS datasets from any one of four levels, i.e. the site, the grave, the burials and finally the grave goods by using the properties ‘Resource is a part of’…’ and/or ‘Resource has…’ as appropriate. Starting a search using THANADOS from the Publisher filter finds over 23,000 resources. These consist of three Resource types:
--	Artefacts – items found in graves
--	Burials – graves and burials (a grave may contain more than one burial)
--	Sites/monument – cemeteries and grave sites.
-<!-- ### Video: data hierarchy
-[In this video clip,](https://vimeo.com/1049348294) Julian Richards demonstrates the hierarchical structure of the THANADOS collection resources. 
--->
-<Br>
-The following example is the resource for Teurnia St. Peter in Holz, a burial ground which has records for 32 graves and one for the stray finds. Note that the finds for each site are amalgamated into one record at this top level but exist as separate records for each artefact associated with an individual burial.
-
-![THANADOS Teurnia St. Peter in Holz map ](../assets/49-Thanados_map.png){width=800}
-<p align="center"><I>Teurnia St. Peter in Holz burial ground record</I></p>
-
-Each grave can be accessed by clicking on the resource title shown under the **Resource has…** on the right hand side of the page or via the resources listed on the results page if the **‘Show all records’** option at the end of the list of records is used instead. Grave 18/72 from this site contains one burial (Burial 18/72) which has four finds associated with it (18/72/1 - /4). 
-
-![THANADOS Burial 18/72 record](../assets/50-Thanados_resource_record.png)
-<p align="center"><I>Burial 18/72 record</I></p>
-
-As the resources are hierarchical, the Resource is a part of shows that the Finds belong to Grave 18/72 so the relationship between the four levels can be explored in both directions.
-
-Clicking on the Landing page link in the Resource metadata for the Find 18/72/1 goes to the THANADOS Portal and reveals that this is a bronze bracelet.
-
-![THANADOS Burial 18/72 find](../assets/51-Thandos_Portal_record.png)
-<p align="center"><I>Burial 18/72 find - bronze bracelet</I></p>

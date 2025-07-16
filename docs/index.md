@@ -35,4 +35,6 @@ Navigate through the guide using the **menu on the left-hand side of the page**.
 * Your current page is highlighted in the menu
 * On mobile devices, tap the menu icon (☰) in the top left hand cornder to access the navigation pane
 
-**Pro tip:** Use the search function at the top of the page to quickly jump to any topic across the entire guide.
+!!! note "**Pro tip**"
+
+    Use the search function at the top of the page to quickly jump to any topic across the entire guide.

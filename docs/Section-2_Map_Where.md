@@ -2,7 +2,6 @@
 title: Where - The Map tool
 description: The search options within the ADS Data Catalogue related to 'Where' the resource is located.
 ---
-![Header image](../assets/ARIADNE_Portal_Guide_banner.png){ width="850" }
 
 # Where - The Map tool
 

@@ -1,4 +1,3 @@
-
 site_name: ADS Data Catalogue User Guide
 site_url: https://uoy-ads.github.io/ads-data-catalogue-docs/
 site_author: Archaeology Data Service
@@ -37,14 +36,6 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
-  - admonition
-  - pymdownx.details
-  - pymdownx.superfences
-  - md_in_html
-  - pymdownx.blocks.caption
-
-plugins:
-  - social:
 
 extra:
   social:
@@ -62,9 +53,10 @@ copyright: Copyright &copy; 2025 - Archaeology Data Service
 nav:
   - Home: index.md
   - Searching the Catalogue: Section-0_Searching_Catalogue.md
-  - What - The Text tool: Section-1_What.md
-  - Where - The Map tool: Section-2_Map_Where.md
-  - When - The Time period tool: Section-3_Time_period_When.md
+  - Search parameters:
+    - What - The Text tool: Section-1_What.md
+    - Where - The Map tool: Section-2_Map_Where.md
+    - When - The Time period tool: Section-3_Time_period_When.md
   - Search Filters: Section-4_Search_Filters.md
   - The Resource Page: Section-5_Resources.md
   - Tips and Guidance: Section-6_Tips_and_guidance.md

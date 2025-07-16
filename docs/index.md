@@ -1,8 +1,6 @@
-<div style="text-align: center;">
+<div style="">
   <img alt="Logo for the Archaeology Data Service" src="ads_logo_full.png" width="300">
 </div>
-
-
 
 # Welcome to the ADS Data Catalogue
 
@@ -22,7 +20,7 @@ Search results can also be displayed in multiple ways: as individual listings, a
 
 Built on the same robust infrastructure developed by the [ARIADNE Research Infrastructure](https://www.ariadne-research-infrastructure.eu/) for the [ARIADNE Portal](https://portal.ariadne-infrastructure.eu/), our catalogue is specifically designed to serve the needs of the ADS community, while presenting our distinctive collection of archaeological datasets and digital resources.
 
-For further information about the Archaeology Data Servive, please visit the [**ADS Website**](https://archaeologydataservice.ac.uk/).
+For further information about the Archaeology Data Service, please visit the [**ADS Website**](https://archaeologydataservice.ac.uk/).
 
 ## How to Use This Guide
 

@@ -4,7 +4,7 @@
 
 Welcome to the repository for the User Guide for the ADS Data Catalogue. The guide and this repository is maintined by staff at the [Archaeology Data Service](https://archaeologydataservice.ac.uk/).
 
-This User Guide has been created as a reference manual for end users of the ARIADNE Portal Catalogue. 
+This User Guide has been created as a reference manual for end users of the ADS Data Catalogue. 
 
 # Acknowledgments
 

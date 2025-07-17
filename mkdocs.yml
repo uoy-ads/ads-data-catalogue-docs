@@ -1,5 +1,4 @@
 site_name: ADS Data Catalogue User Guide
-site_url: https://uoy-ads.github.io/ads-data-catalogue-docs/
 site_author: Archaeology Data Service
 repo_name: ads-data-catalogue-docs
 repo_url: https://github.com/uoy-ads/ads-data-catalogue-docs/
@@ -39,6 +38,8 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - md_in_html
+  - pymdownx.blocks.caption
 
 extra:
   social:

@@ -12,8 +12,8 @@ The Metadata listed below represents the minimal recommended metadata for a refe
 <li>Primary Language: English</li>
 <li>Keyword(s): catalogue, archaeology, monuments, artefacts, maps, datasets, reports</li>
 <li>License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)</li>
-<li>Version date: 10/07/2025</li>
-<li>URL to Resource:https://uoy-ads.github.io/ads-data-catalogue-docs/</li>
+<li>Version date: 30/07/2025</li>
+<li>URL to Resource: (https://uoy-ads.github.io/ads-data-catalogue-docs/)</li>
 <li>Resource URL Type: TBA</li>
 <li>Target Group (Audience): Researchers, archaeologists, general public</li>
 <li>Learning Resource Type: Reference manual</li>

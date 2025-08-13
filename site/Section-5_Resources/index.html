@@ -712,7 +712,7 @@
 
 <h1 id="the-resource-page">The Resource page</h1>
 <p>Clicking on a resource title from a search result opens a new page showing the complete metadata record and all associated information for that item. This page provides a description about the resource, its resource type, location, publisher, subject and date, as well as links to the original resource.</p>
-<p>At the top of the page, the location of the resource is shown on a map where you can zoom in and out change the base map. Below these tools there is a further rectangular icon with options for changing the size of the dislayed map to small (default), medium or full screen. </p>
+<p>At the top of the page, the location of the resource is shown on a map where you can zoom in and out change the base map. Below these tools there is a rectangular icon with options for changing the dislayed map size to small (default), medium or full screen. </p>
 <p><img alt="Top part of an ARIADNE Catalogue Resource page" src="../assets/32-Resource_top.png" width="850" /></p>
 <p align="center"><I>Top part of the Resource page</I></p>
 
@@ -783,11 +783,11 @@
 </tr>
 </tbody>
 </table>
-<p><strong>Json</strong> – displays the resource data formatted in a JSON file. This contains all the data (and combinations of data) available for that specific resource.</p>
-<p><strong>Xml</strong> – displays the resource data formatted in XML.</p>
-<p><strong>RDF</strong> - generates a RDF file of the resource data.</p>
+<p><strong>Json</strong> – displays the resource data formatted in a JSON file. This contains all available data (and combinations of data) for that specific resource.</p>
+<p><strong>Xml</strong> – displays the resource data formatted as XML.</p>
+<p><strong>RDF</strong> - generates an RDF file of the resource data.</p>
 <p><strong>Cite</strong> - provides a link for the resource metadata page.</p>
-<p><strong>Report an issue</strong> – generates a Contact form (shown below) containing the resource id (Subject) in which users can report any issues they encounter with the resource.</p>
+<p><strong>Report an issue</strong> – generates a contact form (shown below) containing the resource ID (Subject) in which users can report any issues they encounter with the resource.</p>
 <p><img alt="Contact details for this resource" src="../assets/41-Resource_contact.png" />|</p>
 <p align="center"><I>The Contact form</I></P>
 
@@ -817,16 +817,16 @@
 <tbody>
 <tr>
 <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="List of 7 thematically similar resources" src="../assets/44-Resource_thematically_similar.png" /></td>
-<td>Thematically similar lists up to seven similar resources from the whole Catalogue. The default setting is ‘Subject &amp; Time period”. In this case, records with similar (Original) subjects and in a similar time period will be searched for and the first seven listed.</td>
+<td>Thematically similar lists up to seven similar resources from the entire Catalogue. The default setting is ‘Subject &amp; Time period'. Records with similar (Original) subjects and similar time periods will be searched for and the first seven are listed.</td>
 </tr>
 </tbody>
 </table>
-<p>In addition to the default term of “Subject &amp; Time period”, there are four other criteria that can be used to find similar resources:</p>
+<p>In addition to the default term of “Subject &amp; Time period”, there are four other criteria you can be use to find similar resources:</p>
 <ul>
-<li>Title – title of resource (matches all or some words used in the title).</li>
-<li>Location – other resources found within 2km of the centroid of the original resource location.</li>
-<li>Subject – resources with the same Original subject classification.</li>
-<li>Time period – resources falling within the same time period (denoted start and end dates).</li>
+<li>Title – matches resources with all or some words used in the title.</li>
+<li>Location – finds other resources within 2km of the centroid of the original resource location.</li>
+<li>Subject – finds resources with the same Original subject classification.</li>
+<li>Time period – finds resources falling within the same time period (based on start and end dates).</li>
 </ul>
 
 
@@ -860,6 +860,46 @@
       </main>
       
         <footer class="md-footer">
+  
+    
+      
+      <nav class="md-footer__inner md-grid" aria-label="Footer" >
+        
+          
+          <a href="../Section-4_Search_Filters/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Search Filters">
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              <div class="md-ellipsis">
+                Search Filters
+              </div>
+            </div>
+          </a>
+        
+        
+          
+          <a href="../Section-6_Tips_and_guidance/" class="md-footer__link md-footer__link--next" aria-label="Next: Tips and Guidance">
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              <div class="md-ellipsis">
+                Tips and Guidance
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    
   
   <div class="md-footer-meta md-typeset">
     <div class="md-footer-meta__inner md-grid">
@@ -915,7 +955,7 @@
     </div>
     
     
-    <script id="__config" type="application/json">{"base": "..", "features": ["navigation.sections", "navigation.instant", "navigation.top"], "search": "../assets/javascripts/workers/search.f8cc74c7.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    <script id="__config" type="application/json">{"base": "..", "features": ["navigation.sections", "navigation.instant", "navigation.top", "navigation.footer"], "search": "../assets/javascripts/workers/search.f8cc74c7.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
     
     
       <script src="../assets/javascripts/bundle.c8b220af.min.js"></script>

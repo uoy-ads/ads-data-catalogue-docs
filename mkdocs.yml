@@ -13,6 +13,7 @@ theme:
     - navigation.sections    # Groups top-level sections in sidebar
     - navigation.instant     # Faster page transitions
     - navigation.top         # Back-to-top button
+    - navigation.footer      # Links to previous and next page
   palette:
     # Dark Mode
     - scheme: slate

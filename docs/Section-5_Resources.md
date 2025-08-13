@@ -7,7 +7,7 @@ description: A descripton of the summary page for each resource listed.
 
 Clicking on a resource title from a search result opens a new page showing the complete metadata record and all associated information for that item. This page provides a description about the resource, its resource type, location, publisher, subject and date, as well as links to the original resource.
 
-At the top of the page, the location of the resource is shown on a map where you can zoom in and out change the base map. Below these tools there is a further rectangular icon with options for changing the size of the dislayed map to small (default), medium or full screen. 
+At the top of the page, the location of the resource is shown on a map where you can zoom in and out change the base map. Below these tools there is a rectangular icon with options for changing the dislayed map size to small (default), medium or full screen. 
 
 ![Top part of an ARIADNE Catalogue Resource page](../assets/32-Resource_top.png){ width="850" }
 <p align="center"><I>Top part of the Resource page</I></p>
@@ -59,15 +59,15 @@ The Title of this resource (Mønt) is shown followed by the Description (in Dani
 | ----------- | ----------- |
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Screenshot of Resource links options](../assets/40-Resource_links.png) | **View resource at provider** is the Landing page URL for that resource. The other Resource links are for technical applications listed below.|
 
-**Json** – displays the resource data formatted in a JSON file. This contains all the data (and combinations of data) available for that specific resource.
+**Json** – displays the resource data formatted in a JSON file. This contains all available data (and combinations of data) for that specific resource.
 
-**Xml** – displays the resource data formatted in XML.
+**Xml** – displays the resource data formatted as XML.
 
-**RDF** - generates a RDF file of the resource data.
+**RDF** - generates an RDF file of the resource data.
 
 **Cite** - provides a link for the resource metadata page.
 
-**Report an issue** – generates a Contact form (shown below) containing the resource id (Subject) in which users can report any issues they encounter with the resource.
+**Report an issue** – generates a contact form (shown below) containing the resource ID (Subject) in which users can report any issues they encounter with the resource.
 
  ![Contact details for this resource](../assets/41-Resource_contact.png)|
 <p align="center"><I>The Contact form</I></P>
@@ -82,11 +82,11 @@ The Title of this resource (Mønt) is shown followed by the Description (in Dani
 
 | Option | Description |
 | ----------- | ----------- |
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![List of 7 thematically similar resources](../assets/44-Resource_thematically_similar.png) |Thematically similar lists up to seven similar resources from the whole Catalogue. The default setting is ‘Subject & Time period”. In this case, records with similar (Original) subjects and in a similar time period will be searched for and the first seven listed.|
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![List of 7 thematically similar resources](../assets/44-Resource_thematically_similar.png) |Thematically similar lists up to seven similar resources from the entire Catalogue. The default setting is ‘Subject & Time period'. Records with similar (Original) subjects and similar time periods will be searched for and the first seven are listed.|
 
-In addition to the default term of “Subject & Time period”, there are four other criteria that can be used to find similar resources:
+In addition to the default term of “Subject & Time period”, there are four other criteria you can be use to find similar resources:
 
-- Title – title of resource (matches all or some words used in the title).
-- Location – other resources found within 2km of the centroid of the original resource location.
-- Subject – resources with the same Original subject classification.
-- Time period – resources falling within the same time period (denoted start and end dates).
+- Title – matches resources with all or some words used in the title.
+- Location – finds other resources within 2km of the centroid of the original resource location.
+- Subject – finds resources with the same Original subject classification.
+- Time period – finds resources falling within the same time period (based on start and end dates).

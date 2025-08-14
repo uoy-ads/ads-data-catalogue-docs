@@ -1,4 +1,4 @@
-site_name: ADS Data Catalogue User Guide
+site_name: Data Catalogue Guide
 site_author: Archaeology Data Service
 repo_name: ads-data-catalogue-docs
 repo_url: https://github.com/uoy-ads/ads-data-catalogue-docs/
@@ -7,7 +7,7 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  logo: assets/ads_logo_white_cropped.png
+  logo: assets/ads_logo_white.png
   favicon: assets/ads_logo.png
   features:
     - navigation.sections    # Groups top-level sections in sidebar
@@ -65,4 +65,5 @@ nav:
   - Search Filters: Section-4_Search_Filters.md
   - The Resource Page: Section-5_Resources.md
   - Tips and Guidance: Section-6_Tips_and_guidance.md
+  - Tips and Guidance 2: Section-6_edit.md
   - RDA metadata: RDA_metadata.md

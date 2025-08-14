@@ -1,12 +1,8 @@
-<div style="">
-  <img alt="Logo for the Archaeology Data Service" src="ads_logo_full.png" width="300">
-</div>
-
-# Welcome to the ADS Data Catalogue
+# Getting Started
 
 The Archaeology Data Service [**Data Catalogue**](LINK) is a comprehensive platform for discovering and accessing archaeological data and resources from across the UK. 
 
-The ADS Data Catalogue provides access to over 1 million archaeological resources that can be searched and filtered according to a number of criteria.
+With access to over 1 million archaeological resources, the catalogue solves the challenge of discovering relevant materials by bringing together collections deposited with the ADS into one searchable platform. Explore the UK's archaeological heritage through an intuitive interface that lets you search by location, time period, and subject matter.
 
 ![ADS Data Catalogue search results page](ads_data_cat_intro.png)
 
@@ -31,10 +27,12 @@ Navigate through the guide using the **menu on the left-hand side of the page**.
 **Navigation features:**
 
 * Click section headings to expand subsections
-* Your current page is highlighted in the menu
 * Use the search bar at the top of the page to find specific topics
-* On mobile devices, tap the menu icon (☰) in the top left hand cornder to access the navigation pane
+* Your current page is highlighted in the menu
+* On mobile devices, tap the menu icon (☰) in the top left hand corner to access the navigation pane
 
 !!! note "**Pro tip**"
 
     Use the search function at the top of the page to quickly jump to any topic across the entire guide.
+
+Ready to start exploring? Begin with [Searching the Catalogue](Section-0_Searching_Catalogue.md) to learn the basics or jump straight to the [Catalogue](LINK) to start discovering archaeological resources.

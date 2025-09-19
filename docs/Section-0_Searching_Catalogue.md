@@ -9,7 +9,7 @@ Navigating to the Data Catalogue opens the Results page, with filtering options 
 
 By default, the catalogue displays all available results, which you can then filter using three key search parameters: [**What**](Section-1_What.md), [**Where**](Section-2_Map_Where.md), and [**When**](Section-3_Time_period_When.md).
 
-![ARIADNE Catalogue search results page](../assets/02-Search_results_page.png){ width="850" }
+![ARIADNE Catalogue search results page](assets/02-Search_results_page.png){ width="850" }
 <p align=center><i>Search results page</i></p>
 
 ## Search Results
@@ -20,7 +20,7 @@ If a resource contains more than one Resource Type, then the icon displayed will
 
 Resources that are found in a [**CoreTrustSeal certified repository**](https://www.coretrustseal.org/) will display an additional icon below the Resource Type.
 
-![Set of icons that classify resource type](../assets/28-Resource-Type-icon.png){ width="850" }
+![Set of icons that classify resource type](assets/28-Resource-Type-icon.png){ width="850" }
 <p align=center><i>Resource Type icons</i></p>
 
 ## Options for displaying the results
@@ -28,9 +28,9 @@ At the top right hand side of the Results page, there are two options for contro
 
 | Order |  |
 | ------------- | ----------- |
-| ![List of options which determine the display order](../assets/31-Order_options.png) | **Relevance** - calculated from several fields (see below).<Br><Br>**Issued date** - date of publication of the resource (default setting).<Br><Br>**Dating** - dating (e.g. Roman) of resource record.<Br><Br>**Publisher** - data provider of the resource metadata.<Br><Br>**Resource type** - broad resource type (as defined in Search Filters).|
+| ![List of options which determine the display order](assets/31-Order_options.png) | **Relevance** - calculated from several fields (see below).<Br><Br>**Issued date** - date of publication of the resource (default setting).<Br><Br>**Dating** - dating (e.g. Roman) of resource record.<Br><Br>**Publisher** - data provider of the resource metadata.<Br><Br>**Resource type** - broad resource type (as defined in Search Filters).|
 | **Per page** |  |
-| ![Drop down menu of values for how many results are displayed on the page](../assets/30-Per_page.png) | Number of resources shown on Results page (default  is 20). <br><Br>**Per page** sets how many results are displayed per page (5 to 50). |
+| ![Drop down menu of values for how many results are displayed on the page](assets/30-Per_page.png) | Number of resources shown on Results page (default  is 20). <br><Br>**Per page** sets how many results are displayed per page (5 to 50). |
 
 ### How ‘Relevance’ is calculated
 

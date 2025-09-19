@@ -7,8 +7,6 @@ description: How to search the ADS Data Catalogue using the additional search fi
 
 In addition to the  [**What**](Section-1_What.md), [**Where**](Section-2_Map_Where.md), and [**When**](Section-3_Time_period_When.md) tools, several filters operate on specific metadata fields to help you refine your search results. 
 
-Advanced filters - the "AND" and "OR" operators - can also be applied to selected filters for more precise searching.
-
 ![Search filters](../assets/56-Filters_all.png) 
 
 Below is a list of the avaiable search filter options, including the context for each filter and advice on how best to use them. 

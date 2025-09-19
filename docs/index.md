@@ -1,3 +1,9 @@
+---
+output:
+  word_document: default
+  html_document: default
+  pdf_document: default
+---
 # Getting Started
 
 The Archaeology Data Service [**Data Catalogue**](LINK) is a comprehensive platform for discovering and accessing archaeological data and resources from across the UK. 

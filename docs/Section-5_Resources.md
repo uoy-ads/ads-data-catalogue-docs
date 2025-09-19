@@ -24,7 +24,7 @@ The Resource Page includes all metadata for that resource including, ID, landing
 ### Responsible person and organisations
 | Metadata | Description |
 | ----------- | ----------- |
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Resource licence](../assets/38-Resource-licence.png) | **Creator** is the original author of the resource information. <BR><BR> **Contributor** is the organisation or person who has supplied the metadata about the resource.  <BR><BR> **Owner** is the organisation or person who owns the licence for the data.  <BR><BR> **Responsible** is the organisation or person legally responsible for the maintenance of the resource data.  <BR><BR> **Licence** indicates the permitted access and reuse of the metadata.|
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Resource licence](../assets/38-Resource-licence.png) | **Creator** is the original author of the resource information. <BR><BR> **Contributor** is the organisation or person who has supplied the metadata about the resource.  <BR><BR> **Owner** is the organisation or person who owns the licence for the data.  <BR><BR> **Responsible** is the organisation or person legally responsible for the maintenance of the resource data.|
  
 ### Licence information
 

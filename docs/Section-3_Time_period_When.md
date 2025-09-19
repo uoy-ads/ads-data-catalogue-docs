@@ -36,9 +36,9 @@ Each box will display up to the first 20 periods. When more exist, you can view 
 
 | Temporal region | Description |
 | ----------- | ----------- |
-| ![List of temporal region options used to define a time period](../assets/17-Temporal-region-diagram.png) | **Temporal region** displays (mostly modern) regions of interest. Most are at the country level, although there are also some larger historical areas such as the Roman Empire.
-<p>Next to each region name is the number of defined periods available in PeriodO. |
-| ![Selected temporaral regions from Japan at the top of the list](../assets/18-Named-time-period.png) | Each selected region automatically moves to the top of the list. You can remove and add regions as required. <p>Once you have completed your selection of the regions, click on the Cultural period option to display the list of periods associated with each region. These are listed in date order, starting with the earliest. <p>Please note that the time period graph, map and results page do not update until the filter is complete - you must select at least one Cultural period. |
+| ![List of temporal region options used to define a time period](../assets/17-Temporal-region-diagram.png) | **Temporal region** displays (mostly modern) regions of interest. Most are at the country level, although there are also some larger historical areas such as the Roman Empire. <p> Next to each region name is the number of defined periods available in PeriodO. |
+| ![Selected temporaral regions from Japan at the top of the list](../assets/18-Named-time-period.png) | Each selected region automatically moves to the top of the list. You can remove and add regions as required. Once you have completed your selection of the regions, click on the Cultural period option to display the list of periods associated with each region. These are listed in date order, starting with the earliest. <p><p> Please note that the time period graph, map and results page do not update until the filter is complete - you must select at least one Cultural period. |
+
 
 ### Cultural period
 
@@ -46,7 +46,5 @@ Each box will display up to the first 20 periods. When more exist, you can view 
 | ----------- | ----------- |
 |  ![List of Cultural periods shown in date order](../assets/19-Cultural-periods.png) |**Cultural periods** displays all the named periods in date order (from earliest) along with the number of matching resources. For each named period, the matching territory is indicated (with ISO 3 letter country code, where available) along with the start year, resource count, and a Help icon. <p>Once you've selected at least one **Temporal region** and one **Cultural period**, the Results page and Time line is updated. |
 | ![Mouseover text showing information about Medieval (HUN) time period](../assets/20-Period-information.png) | Hovering the mouse over the Help icon reveals additional information about the Cultural period. |
-
-
 
 You can also use the Cultural period filter independently from the Temporal region filter, especially when searching for a specific period. For example, entering ‘Roman’ in the Cultural period text box will show matches from multiple countries. 

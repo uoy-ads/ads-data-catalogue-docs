@@ -9,7 +9,7 @@ Navigating to the Data Catalogue opens the Results page, with filtering options 
 
 By default, the catalogue displays all available results, which you can then filter using three key search parameters: [**What**](Section-1_What.md), [**Where**](Section-2_Map_Where.md), and [**When**](Section-3_Time_period_When.md).
 
-![ARIADNE Catalogue search results page](assets/02-Search_results_page.png){ width="850" }
+![ADS Data Catalogue search results page](assets/02-Search_results_page.png){ width="850" }
 <p align=center><i>Search results page</i></p>
 
 ## Search Results

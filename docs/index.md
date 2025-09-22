@@ -6,7 +6,7 @@ output:
 ---
 # Getting Started
 
-The Archaeology Data Service [**Data Catalogue**](LINK) is a comprehensive platform for discovering and accessing archaeological data and resources from across the UK. 
+The Archaeology Data Service [**Data Catalogue**](https://archaeologydataservice.ac.uk/data-catalogue/) is a comprehensive platform for discovering and accessing archaeological data and resources from across the UK. 
 
 With access to over 1 million archaeological resources, the catalogue solves the challenge of discovering relevant materials by bringing together collections deposited with the ADS into one searchable platform. Explore the UK's archaeological heritage through an intuitive interface that lets you search by location, time period, and subject matter.
 

@@ -5,7 +5,7 @@ description: The search options within the ADS Data Catalogue related to 'When' 
 
 # When - The Time period tool
 
-The When tool consists of three different ways of selecting a time period of interest: a graphic where you can use the mouse to select the date range, a text entry box where you can specify start and end years, and a separate filter that uses named time periods as defined in [PeriodO](https://perio.do/en/).
+The When tool consists of two different ways of selecting a time period of interest: a graphic where you can use the mouse to select the date range and a text entry box where you can specify start and end years.
 
 ## The Time line
 
@@ -18,33 +18,13 @@ The When tool consists of three different ways of selecting a time period of int
 
 ## Filter by Year 
 
-An alternative method for selecting a time period is to enter the start and end years in the text box below the graph. 
+An alternative method for selecting a time period is to enter the start and end years in the text box below the graph. Using this menu you can filter the search results by a time period. For dates before 0 AD, use a - sign before the number. The example below shows a search filter between 800 BC and AD 43.
+
+<figure markdown="span">
+  ![Filter for typing in start and end dates](../assets/filter_by_year.png)
+  <figcaption>Filter By Year menu</figcaption>
+</figure>
 
 Using either method (graph or direct year entry), all records that specify a time period falling within or overlapping your selected time period will be returned in the results – as shown in the illustration below.
 
 ![Diagram which shows how resource with time periods which overlap the selected period are included in the results](../assets/16-Resource-time-period-diagram.png)
-
-<p align = center><i>How the time period filter works with the start and end dates specified for each resource</i></p>
-
-## Filter by Time Periods
-
-This option enables filtering of the results by named time periods as defined in [PeriodO](https://perio.do/en/). There are two stages for this filter: Temporal region and Cultural period. The Cultural period can be used as a standalone filter or in combination with Temporal region.
-
-Each box will display up to the first 20 periods. When more exist, you can view additional results by clicking the 'Get 20 more results' button at the bottom of the list. Alternatively, use the text input box above the list to search for specific periods. All matching options are shown as you type.
-
-### Temporal region
-
-| Temporal region | Description |
-| ----------- | ----------- |
-| ![List of temporal region options used to define a time period](../assets/17-Temporal-region-diagram.png) | **Temporal region** displays (mostly modern) regions of interest. Most are at the country level, although there are also some larger historical areas such as the Roman Empire. <p> Next to each region name is the number of defined periods available in PeriodO. |
-| ![Selected temporaral regions from Japan at the top of the list](../assets/18-Named-time-period.png) | Each selected region automatically moves to the top of the list. You can remove and add regions as required. Once you have completed your selection of the regions, click on the Cultural period option to display the list of periods associated with each region. These are listed in date order, starting with the earliest. <p><p> Please note that the time period graph, map and results page do not update until the filter is complete - you must select at least one Cultural period. |
-
-
-### Cultural period
-
-| Cultural period | Description |
-| ----------- | ----------- |
-|  ![List of Cultural periods shown in date order](../assets/19-Cultural-periods.png) |**Cultural periods** displays all the named periods in date order (from earliest) along with the number of matching resources. For each named period, the matching territory is indicated (with ISO 3 letter country code, where available) along with the start year, resource count, and a Help icon. <p>Once you've selected at least one **Temporal region** and one **Cultural period**, the Results page and Time line is updated. |
-| ![Mouseover text showing information about Medieval (HUN) time period](../assets/20-Period-information.png) | Hovering the mouse over the Help icon reveals additional information about the Cultural period. |
-
-You can also use the Cultural period filter independently from the Temporal region filter, especially when searching for a specific period. For example, entering ‘Roman’ in the Cultural period text box will show matches from multiple countries. 

@@ -66,7 +66,7 @@ Different icons represent how resources appear on the map tool.
   <figcaption>Cluster icons used to represent groups of resources on the Map</figcaption>
 </figure>
 
-Clusters icons denote locations where multiple resources can be found. The different colours indicate the total number of resources: blue = 1-10, yellow = 11-99 and red 100+ resources.
+Clusters icons denote locations where multiple resources can be found. The different colours indicate the total number of resources: green  = 1-10, red = 11-99 resources.
 
 ![Multiple pins (expanded view) on the map](../assets/12-Multiple-pins.png) 
 

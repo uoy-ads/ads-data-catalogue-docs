@@ -48,14 +48,7 @@ The Resource Page includes all metadata for that resource including, ID, landing
 
 **Xml** – displays the resource data formatted as XML.
 
-**RDF** - generates an RDF file of the resource data.
-
 **Cite** - provides a link for the resource metadata page.
-
-**Report an issue** – generates a contact form (shown below) containing the resource ID (Subject) in which users can report any issues they encounter with the resource.
-
- ![Contact details for this resource](../assets/41-Resource_contact.png)
-<p align="center"><I>The Contact form</I></P>
 
 ### Resource is a part of
 

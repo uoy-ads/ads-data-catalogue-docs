@@ -38,25 +38,9 @@ This is true for marine archaeology, where political boundaries don't apply to u
 
 ---
 
-## Working with Time Periods
-
-Two approaches have been used to denote time periods – absolute start and end dates and period names. There are pros and cons with using both methods:
-
-**Absolute Dates (Start/End Years)**
-
-- ✅ Provides precise chronological boundaries
-- ⚠️ If absolute dates are used across more than one country, there may be irrelevant results
-
-**Named Periods (Bronze Age, Medieval, etc.)**
-
-- ✅ Archaeologically meaningful time preiods
-- ⚠️ Same period names cover different dates in different countries
-
----
-
 ## Search Example - Epiacum (Whitley Castle) Roman Fort
 
-This example shows how to overcome common challenges like alternative names, misspellings, and different location references.
+The example below shows how to overcome common challenges like alternative names, misspellings, and different location references.
 
 Epiacum is a Roman Fort located near the town of Alston, Cumbria on the border with Northumbria. It is unusual, being lozenge shaped and with impressive earthworks of banks and ditches and is relatively unexcavated. The fort is also known as Whitley Castle, this name being derived from the nearby Manor of Whitlaw. 
 

@@ -1,9 +1,10 @@
+![ADS Data Catalogue Logo](assets/ads_data_catalogue_logo.png){ width="650" }
 
 # Getting Started
 
 The Archaeology Data Service [**Data Catalogue**](https://archaeologydataservice.ac.uk/data-catalogue/) is a comprehensive platform for discovering and accessing archaeological data and resources from across the UK. 
 
-With access to over 1 million archaeological resources, the catalogue solves the challenge of discovering relevant materials by bringing together collections deposited with the ADS into one searchable platform. Explore the UK's archaeological heritage through an intuitive interface that lets you search by location, time period, and subject matter.
+With access to over 1 million archaeological resources, the catalogue makes it easy to discover relevant materials by bringing together collections deposited with the ADS and information from historic environment inventories into one searchable platform. Explore the UK's archaeological heritage through an intuitive interface that lets you search by location, time period, and subject matter."
 
 ![ADS Data Catalogue search results page](ads_data_cat_intro.png)
 
@@ -13,7 +14,7 @@ The Catalogue allows you to search using multiple parameters:
 - :earth_americas: Where (geographic location)
 - :clock1: When (time periods). 
 
-Search results can also be displayed in multiple ways: as individual listings, aggregated on an interactive map, or plotted on a timeline view.
+Search results can be displayed in multiple ways: as individual listings, aggregated on an interactive map, or plotted on a timeline view.
 
 Built on the same robust infrastructure developed by the [ARIADNE Research Infrastructure](https://www.ariadne-research-infrastructure.eu/) for the [ARIADNE Portal](https://portal.ariadne-infrastructure.eu/), our catalogue is specifically designed to serve the needs of the ADS community, while presenting our distinctive collection of archaeological datasets and digital resources.
 
@@ -36,4 +37,4 @@ Navigate through the guide using the **menu on the left-hand side of the page**.
 
     Use the search function at the top of the page to quickly jump to any topic across the entire guide.
 
-Ready to start exploring? Begin with [Searching the Catalogue](Section-0_Searching_Catalogue.md) to learn the basics or jump straight to the [Catalogue](LINK) to start discovering archaeological resources.
+Ready to start exploring? Begin with [Searching the Catalogue](Section-0_Searching_Catalogue.md) to learn the basics or jump straight to the [Catalogue](https://archaeologydataservice.ac.uk/data-catalogue/) to start discovering archaeological resources.

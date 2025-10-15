@@ -16,6 +16,14 @@ The Catalogue allows you to search using multiple parameters:
 
 Search results can be displayed in multiple ways: as individual listings, aggregated on an interactive map, or plotted on a timeline view.
 
+Find out more in the video below :
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eSPHLj_GPdA?si=xnuW_x3jpXkNw9PE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Training videos to support using the Data Catalogue can be found in this playlist on the [:simple-youtube: ADS Youtube channel](https://www.youtube.com/playlist?list=PL2B2G_cBInJ0OU9v_dq2wSF3w77ojYmny){:target="\_blank"}.
+
+---
+
 Built on the same robust infrastructure developed by the [ARIADNE Research Infrastructure](https://www.ariadne-research-infrastructure.eu/) for the [ARIADNE Portal](https://portal.ariadne-infrastructure.eu/), our catalogue is specifically designed to serve the needs of the ADS community, while presenting our distinctive collection of archaeological datasets and digital resources.
 
 For further information about the Archaeology Data Service, please visit the [**ADS Website**](https://archaeologydataservice.ac.uk/).
